@@ -1,0 +1,28 @@
+name: Wren Creative
+favicon: null
+layout_spectrum: 0.5811029644683003
+typography_spectrum: 0.5042717366013676
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4538752834778279
+  lightness: 0.756097953999415
+  saturation: 0.12726421537809074
+  rhythmicContrast: 0.6017493589315563
+purpose: []
