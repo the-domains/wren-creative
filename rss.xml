@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Wren Creative]]></title>
-        <description><![CDATA[Wren Creative]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Electrical | Project Management | Events]]></title>
+        <description><![CDATA[Electrical | Project Management | Events]]></description>
+        <link>https://thegrid.ai/wren-creative/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 02:33:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Mar 2016 01:46:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wren-creative/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Wren Creative X City of Melbourne </p>]]></description>
+            <link>https://thegrid.ai/wren-creative/535e3320-d0c2-442f-9319-c588045f0a8c/index.html</link>
+            <guid isPermaLink="false">535e3320-d0c2-442f-9319-c588045f0a8c</guid>
+            <pubDate>Sat, 12 Mar 2016 01:45:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d4060cf-ae2c-4fce-9d62-d0baa41b40d1.jpg">]]></description>
-            <link>undefined3765f017-9514-440b-9046-f5582d005111/index.html</link>
+            <link>https://thegrid.ai/wren-creative/3765f017-9514-440b-9046-f5582d005111/index.html</link>
             <guid isPermaLink="false">3765f017-9514-440b-9046-f5582d005111</guid>
             <pubDate>Thu, 10 Mar 2016 02:32:50 GMT</pubDate>
         </item>
