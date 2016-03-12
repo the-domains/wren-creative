@@ -1,6 +1,6 @@
 name: Wren Creative
 favicon: null
-layout_spectrum: 0.25934
+layout_spectrum: 0.49323
 typography_spectrum: 0.76507
 title: 'Electrical | Project Management | Events'
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.4538752834778279
   lightness: 0.756097953999415
   saturation: 0.12726421537809074
-  rhythmicContrast: 0.6017493589315563
+  rhythmicContrast: 0.75
 purpose: []
